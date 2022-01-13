@@ -10,4 +10,4 @@ Referente aos exercícios das questões 1 à 4, basta acessar o pacote de cada q
 
 ### Obvervações:
 
-O Projeto consiste em um jogo de xadrez básico sem interface gráfica que pode ser executado através do GIT BASH conforme imagem abaixo.
+A resolução das questões 1 à 4 estão completas, referente a resolução da questão 5 eu fiz o máximo que pude dentro do prazo de entrega do desafio, pois tive que conciliar o tempo de realização do teste prático com o meu emprego atual e peço desculpas por não entregar 100%. Mas estou disponível para esclarecer quaisquer esclarecimentos e agradeço desde já pela oportunidade. Desejo-lhe um excelente dia.
